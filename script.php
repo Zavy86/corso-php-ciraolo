@@ -26,7 +26,7 @@ if(basename($_SERVER['PHP_SELF']) === 'auth.php'){
 	}
 }
 
-var_dump(password_hash('password',PASSWORD_BCRYPT));
+//var_dump(password_hash('password',PASSWORD_BCRYPT));
 
 
 // 1 ------------------------------------------------
